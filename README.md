@@ -8,6 +8,9 @@
 
 🌱 I'm passionate about leveraging technology to create meaningful solutions, and I'm eager to connect with fellow learners, mentors, and enthusiasts to exchange ideas, collaborate on projects, and grow together.
 
+
+
+AND YES I HAVE USED AI MODEL to write this 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshul55890) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anshul558901) 
 
