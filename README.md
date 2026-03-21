@@ -10,6 +10,7 @@ Developer focused on building precise, scalable systems and writing code that la
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=geekyyanshul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=geekyyanshul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=geekyyanshul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyyanshul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
