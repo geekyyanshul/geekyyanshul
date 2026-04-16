@@ -1,4 +1,4 @@
-#  About Me:
+#  About Me: 
 Developer focused on building precise, scalable systems and writing code that lasts.<br><br>I value clarity over complexity, fundamentals over trends, and thoughtful design over quick fixes. Most of my work revolves around understanding problems deeply and solving them with clean, efficient solutions.<br><br>Constantly learning, refining, and pushing toward better engineering standards.<br><br>Open to serious work, strong ideas, and meaningful collaboration.<br>
 
 
