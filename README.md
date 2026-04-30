@@ -1,7 +1,7 @@
 #  About Me: 
 Developer focused on building precise, scalable systems and writing code that lasts.<br><br>I value clarity over complexity, fundamentals over trends, and thoughtful design over quick fixes. Most of my work revolves around understanding problems deeply and solving them with clean, efficient solutions.<br><br>Constantly learning, refining, and pushing toward better engineering standards.<br><br>Open to serious work, strong ideas, and meaningful collaboration.<br> 
        
- 
+    
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geekyyanshul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anshul558901) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geekyyanshul@gmail.com) 
 
